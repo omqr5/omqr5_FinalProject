@@ -19,7 +19,7 @@ Metadata helps with;
 ### **Data Management**
 - Helps systems track large amounts of information.
 
-### **Security & Privacy 
+### **Security & Privacy **
 - Identifies file ownership  
 - Stores sensitive details (sometimes without you knowing)
  
