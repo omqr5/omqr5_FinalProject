@@ -28,4 +28,4 @@ In digital forensics, metadata is used to:
 This makes metadata powerful — and potentially risky.
 
 ---
-[Previous: Metadata in Everyday Life](metadata-eberyday.md) | [Next: Metadata in the Digital World](metadata-digital-world.md)
+[Previous: Metadata in Everyday Life](metadata-everyday.md) | [Next: Metadata in the Digital World](metadata-digital-world.md)
