@@ -39,4 +39,4 @@ Examples: creation date, file format, permissions, history.
 These three categories are used across many industries and often overlap.
 
 ---
-[Back to Home](README.md) | [Next: Metadata in Everyday Life](metadata-everybody.md)
+[Back to Home](README.md) | [Next: Metadata in Everyday Life](metadata-everyday.md)
