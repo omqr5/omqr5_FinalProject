@@ -8,7 +8,7 @@
 - Metadata will be central to AI, automation, smart devices, and global data systems.  
 
 ---
-## Finals Point
+## Final Point
 Metadata might be invisible, but it powers everything in the digital world and understanding it makes you safer and more digitally aware.
 
 ---
